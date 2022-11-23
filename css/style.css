@@ -1,7 +1,7 @@
 /*Encabezado*/
 .link-nav {
-    /* color:#212121; */
-    /* color:#2196F3 */
+    color:#212121;
+    color:#2196F3
 }
 .header-title {
     font-family: 'Raleway';
@@ -17,7 +17,7 @@
     font-family: 'Roboto',sans-serif;
     color: #212121 !important;
 }
-.menu-nav:hover,.menu-nav:focus{
+.menu-nav:hover {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -27,7 +27,6 @@
     color:#2196F3;
     cursor:pointer
 }
-
 .contact:hover,
 .contact:focus{
     color:  #2196F3; 
